@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flexboard-example/static/css/main.e14dde61.css",
+    "main.js": "/flexboard-example/static/js/main.0eacc8c1.js",
+    "static/media/Flexboard_icon.png": "/flexboard-example/static/media/Flexboard_icon.46b7082e7868e043143b.png",
+    "index.html": "/flexboard-example/index.html",
+    "main.e14dde61.css.map": "/flexboard-example/static/css/main.e14dde61.css.map",
+    "main.0eacc8c1.js.map": "/flexboard-example/static/js/main.0eacc8c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14dde61.css",
+    "static/js/main.0eacc8c1.js"
+  ]
+}
